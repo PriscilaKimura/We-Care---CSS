@@ -10,4 +10,4 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> 
   
-<img scr="https://raw.githubusercontent.com/PriscilaKimura/We-Care-CSS-Responsivo/3b07870fbb3c09090d9aab14bd6697e34f948aef/img/img%20readme%20we%20care.jpg"/> 
+<img scr="https://github.com/PriscilaKimura/We-Care-Responsivo/blob/main/img/img%20readme%20we%20care.jpg?raw=true"/> 
