@@ -4,10 +4,10 @@
 
 <h3> Descrição: </h3>
   <br>
-  <p>O objetivo principal era desenvolver um layout CSS a partir do zero. O método de construção descrito se baseia no posicionamento de containers coloridos, esses serão os elementos DIV principais nas quais serão inseridos os conteúdos e deverão ser designados com nomes ligados semanticamente às suas finalidades e ao final torna-lo resposivo. </p>
+  <p>O objetivo principal era desenvolver um layout CSS a partir do zero. O método de construção descrito se baseia no posicionamento de containers, esses serão os elementos DIV principais nas quais serão inseridos os conteúdos e deverão ser designados com nomes ligados semanticamente às suas finalidades e ao final torna-lo resposivo. </p>
   
   <h4>Tecnologias usadas: </h4>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> 
   
-<img scr="https://github.com/PriscilaKimura/We-Care-Responsivo/blob/main/img/img%20readme%20we%20care.jpg?raw=true"/> 
+<img src="https://github.com/PriscilaKimura/We-Care-Responsivo/blob/main/img/img%20readme%20we%20care.jpg?raw=true"/> 
